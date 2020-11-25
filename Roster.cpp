@@ -164,7 +164,7 @@ const string studentData[] = {
  }
 
 int main() {
-    cout << "Course title: Scripting and Programming C867, Programming language: C++, Student ID: #001300492, Name: Vadym Feskin." << endl; // revision task f1
+    cout << "Course title: Scripting and Programming C867, Programming language: C++" << endl; // revision task f1
     cout << endl;
 
    Roster classRoster;

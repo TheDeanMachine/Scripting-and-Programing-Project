@@ -7,6 +7,8 @@ will be stored in one array called classRosterArray.
 
 Specific data-related output will be directed to the console.
 
+Main is in Roster.cpp
+
 --------------------------------------------------------
 
 This is the input

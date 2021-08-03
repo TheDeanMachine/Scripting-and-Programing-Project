@@ -7,6 +7,13 @@ will be stored in one array called classRosterArray.
 
 Specific data-related output will be directed to the console.
 
+--------------------------------------------------------
 
-This is the output 
+This is the input
+<br/>
+<img src="https://github.com/TheDeanMachine/Scripting-and-Programing-Project/blob/546f3a09fa61e252483d1f7fcf0dd1e7fe400c3b/input.png">
+
+
+---------------------------------------------------------
+This is the output <br/>
 <img src = "https://github.com/TheDeanMachine/Scripting-and-Programing-Project/blob/0dabe3744ee04a4ab3ea24d980949aecc3ffc53c/output.png">
